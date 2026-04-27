@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+    background-color: #f5f5f4;
+    min-height: 100vh;
+}
+
+@theme {
+    --color-tapa: #78716c;
+    --color-fresh-eggplant: #8f0177;
+    --color-mercury: #e7e5e4;
+    --color-swiss-coffee: #d6d3d1;
+}
