@@ -1,3 +1,19 @@
+# Expenses App 
+SPA - Web Page. Simple Dashboard with StatsCard , LineChart, RadarChart, fixed data table, and a Sidebar menu.  
+Reference: https://www.youtube.com/watch?v=OOqGQ3bMk5Y&list=PLko2276mlUBYLRLxgKxgPsQmXtRDf8jB8&index=18&t=13950s
+
+## Technologies
+React, TypeScript, JavaScript, HTML, Tailwind
+
+### 3rd party components
+* ReCharts
+
+### Techniques
+React: 
+* React Router DOM
+
+<br/><br/><br/>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
