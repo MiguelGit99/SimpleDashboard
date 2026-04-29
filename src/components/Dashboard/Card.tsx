@@ -11,7 +11,7 @@ const Card = (props: ICardProps) => {
     const { title, revenue, percentage, date } = props;
 
     return (
-        <div className="flex flex-col border p-4 border-swiss-coffee col-span-4 rounded">
+        <div className="col-span-1 sm:col-span-1 lg:col-span-4 flex flex-col border p-4 border-swiss-coffee rounded">
             <div className="flex mb-8 justify-between">
                 <div className="flex flex-col gap-2">
                     <h3 className="text-tapa">{title}</h3>

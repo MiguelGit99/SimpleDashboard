@@ -4,7 +4,7 @@ import TableRow from "./TableRow";
 const TransactionList = () => {
 
     return (
-        <div className="col-span-12 border border-stone-300 rounded p-4">
+        <div className="col-span-1 lg:col-span-12 border border-stone-300 rounded p-4 overflow-x-auto">
             <div className="flex justify-between">
                 <div className="flex gap-1.5 items-center mb-4">
                     <DollarSign className="size-3.5" />

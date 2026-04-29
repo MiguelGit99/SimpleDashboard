@@ -8,7 +8,7 @@ const Dashboard = () => {
     return (
         <div className="bg-white rounded-lg m-0 shadow w-full overflow-y-auto">
             
-            <div className="grid grid-cols-12 gap-3 px-4 pb-4 ">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-12 gap-3 px-4 pb-4">
                 <StatsCard />
                 <RevenueGraph />
                 <PerformanceRadar />
