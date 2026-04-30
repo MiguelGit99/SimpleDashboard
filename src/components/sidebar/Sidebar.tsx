@@ -1,4 +1,4 @@
-import { Blocks, ChartNoAxesCombined, Home, Search, User, PanelLeftClose, PanelLeftOpen, ChevronLeft, ChevronRight } from "lucide-react";
+import { Blocks, ChartNoAxesCombined, Home, Search, User, ChevronLeft } from "lucide-react";
 import { PROFILE_IMAGE } from "../../lib/constants";
 import Plan from "./Plan";
 import { NavLink } from "react-router-dom";

@@ -1,5 +1,5 @@
 import { format } from "date-fns"
-import { Calendar, Menu } from "lucide-react";
+import { Calendar } from "lucide-react";
 
 const Header = () => {
     const fechaFormateada = format((new Date()), "EEEE, MMM do yyyy");
