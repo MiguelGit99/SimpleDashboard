@@ -8,7 +8,7 @@ import clsx from "clsx"
 const sidebarItems = [
     { label:"Analytics", icon: ChartNoAxesCombined, path: "/analytics"},
     { label:"Customers", icon: User, path: "/customer"},
-    { label:"Integration", icon: Blocks, path: "/Integration"},
+    { label:"Integration", icon: Blocks, path: "/integration"},
 ]
 
 const Sidebar = () => {

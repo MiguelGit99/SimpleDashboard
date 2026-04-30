@@ -21,6 +21,18 @@ export const router = createBrowserRouter([
         path: "analytics",
         element: <Analytics />,
       },
+      {
+        path: "customer",
+        element: <div className="text-3xl">Customer page under maintenance.</div>,
+      },
+      {
+        path: "integration",
+        element: <div className="text-3xl">Integration page under maintenance.</div>,
+      },
+      {
+        path: "*",
+        element: <div>404 Not Found</div>,
+      }
     ],
   },
 ]);
